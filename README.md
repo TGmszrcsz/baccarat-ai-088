@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：版本管理
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 087 篇 - 百家乐Ai预测分析工具：校验值能够证明什么又不能证明什么](https://github.com/TGmszrcsz/baccarat-ai-087) ｜ [下一篇：第 089 篇 - 百家乐Ai预测分析工具：缓存过期会怎样影响面板阅读](https://github.com/TGmszrcsz/baccarat-ai-089)
+
+<!-- article-chain:end -->
+
 恢复了历史文件，系统看似正常，但最新一段记录尚未确认。本篇围绕“备份恢复后应先检查哪些记录”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、本篇解决的阅读问题
