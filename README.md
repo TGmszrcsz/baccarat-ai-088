@@ -6,6 +6,12 @@
 
 **工具地址：** [yc.aiyuces.com](https://yc.aiyuces.com)
 
+<!-- seo-links:start -->
+**规范主域名：** [yc.ftcq.asia](https://yc.ftcq.asia/)
+**English entry:** [Baccarat prediction analysis](https://yc.ftcq.asia/?lang=en)
+**版本资料：** [最新版本记录](https://yc.ftcq.asia/release.php?version=1.5.0)
+<!-- seo-links:end -->
+
 整理日期：2026-09-17　｜　专题方向：版本管理
 
 <!-- article-chain:start -->
